@@ -1,0 +1,39 @@
+.chiTietSP{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chiTietSP  .anhSP img{
+    height: 450px;
+    width: 330px;
+    margin: 50px 0 50px 0
+    /* width:  */
+}
+
+.chiTietSP .thongTinSP{
+    width: 650px;
+    margin-left: 50px;
+}
+
+.chiTietSP .moTaSP{
+    margin-left: 50px;
+}
+
+.chiTietSP .hinhAnhPhu img{
+    max-width: 100px;
+    max-height: 220px;
+    margin-left: 50px;
+}
+
+.detail {
+    font-size: 40px!important;
+    color: black!important;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.thongTinSP span{
+    font-size: 20px;
+    font-weight: 600;
+}

@@ -20,3 +20,22 @@
 .App-link {
   color: #09d3ac;
 }
+.container-fluid{
+  width: 1200px;
+  padding: 0;
+}
+
+
+.zoom img{
+  /* width: 105%; */
+  padding: 2px;
+  
+}
+.zoom img:hover{
+  /* width: 105%; */
+  
+ transform: scale(1.05)
+
+}
+
+
